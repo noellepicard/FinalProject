@@ -1,3 +1,3 @@
 # FinalProject
-##Noelle Picard
+
 This project is pulling data from Kangerlussuac plant abundances in grazing and non-grazing regions (enclosures). I filtered the data to make a biplot, I grouped the data that was from grazing areas and eliminated any non-numerical values along with outliers to make a biplot to compare the plant abundances over a period of time in grazing areas. To make the graph, I plotted the Betula nana plants abundance changes over the time period and compared grazing and non-grazing areas. All data points presented on the graph were not temperature treated and were pulled from the "Bashful" plot.
